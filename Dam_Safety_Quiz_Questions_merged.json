@@ -1,0 +1,1406 @@
+[
+  {
+    "topic": "Dam Safety Act",
+    "question": "Engineers are designing an artificial impoundment structure with a structural height of 12 meters above the foundation. Under the Dam Safety Act, 2021, which single parameter below would AUTOMATICALLY qualify this barrier as a 'specified dam' subject to mandatory dam safety oversight?",
+    "type": "multiple_choice",
+    "options": [
+      "A) A crest length of 350 meters and reservoir capacity of 0.8 million cubic meters.",
+      "B) A maximum design flood discharge capacity of 2,200 cubic meters per second.",
+      "C) A reservoir surface area exceeding 50 hectares regardless of capacity.",
+      "D) Being located in Seismic Zone III without any special foundation challenges."
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Dam Safety Act",
+    "question": "Under the Dam Safety Act, 2021, a sudden, complete loss of power at a dam's spillway gates during a major storm—preventing required water releases—constitutes a 'Dam Failure' even if no structural collapse or downstream flooding occurs.",
+    "type": "true_false",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Dam Safety Act",
+    "question": "Match the dam scenario to its regulatory jurisdiction: (1) 45m dam owned by State PSU in State A; (2) Dam in State A owned by State B; (3) Hydroelectric dam owned by Central PSU; (4) Dam is extended over State A and State B.",
+    "type": "multiple_choice",
+    "options": [
+      "A) 1-State SDSO, 2-NDSA, 3-NDSA, 4-NDSA",
+      "B) 1-NDSA, 2-State SDSO, 3-State SDSO, 4-NDSA",
+      "C) 1-State SDSO, 2-State SDSO, 3-NDSA, 4-State SDSO",
+      "D) 1-NDSA, 2-NDSA, 3-State SDSO, 4-State SDSO"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Dam Safety Act",
+    "question": "Which statement correctly distinguishes the statutory roles of the National Committee on Dam Safety (NCDS) and the National Dam Safety Authority (NDSA)?",
+    "type": "multiple_choice",
+    "options": [
+      "A) NCDS conducts field inspections, while NDSA handles policy.",
+      "B) NCDS evolves dam safety policies, whereas NDSA implements policies, makes regulations, and resolves inter-state disputes.",
+      "C) NDSA reports to SCDS, while NCDS handles international dams.",
+      "D) NCDS handles penalties, while NDSA handles maintenance budgets."
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Dam Safety Act",
+    "question": "Before the initial filling of a newly constructed specified dam's reservoir, which mandatory step is prescribed under the Dam Safety Act?",
+    "type": "multiple_choice",
+    "options": [
+      "A) Central Water Commission clearance within 30 days.",
+      "B) Design agency prepares an initial filling plan, and SDSO inspects/certifies the dam's fitness.",
+      "C) Mock drill with downstream disaster authorities and public consent.",
+      "D) NDMA approval of reservoir water level."
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Dam Safety Act",
+    "question": "As per the Dam Safety Act, 2021, the owner of a specified dam is legally required to conduct mandatory inspections twice every year—specifically pre-monsoon and post-monsoon—through its Dam Safety Unit.",
+    "type": "true_false",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Dam Safety Act",
+    "question": "As per the Dam Safety Act, 2021, which condition mandates the establishment of a dedicated seismological station near a specified dam?",
+    "type": "multiple_choice",
+    "options": [
+      "A) Height of 15 meters or above.",
+      "B) Height of 30 meters or above, or falling under specified seismic zones.",
+      "C) Located in Seismic Zone V only.",
+      "D) All composite earth-fill dams built before 2021."
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Dam Safety Act",
+    "question": "What is the mandatory timeline under Section 36 for preparing Emergency Action Plans (EAPs) for dams constructed and filled BEFORE the commencement of the Act?",
+    "type": "multiple_choice",
+    "options": [
+      "A) Within 1 year",
+      "B) Within 3 years",
+      "C) Within 5 years",
+      "D) Before the next monsoon"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Dam Safety Act",
+    "question": "If an officer deliberately refuses to comply with NCDS/NDSA/SCDS/SDSO directions, resulting in imminent danger to downstream lives, what is the maximum punishment under Section 41?",
+    "type": "multiple_choice",
+    "options": [
+      "A) Fine only",
+      "B) Imprisonment up to 1 year",
+      "C) Imprisonment up to 2 years",
+      "D) Takeover of dam by Central Government"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Dam Safety Act",
+    "question": "How does Dam Safety Act,2021 address potential threats from dams located OUTSIDE Indian territory?",
+    "type": "multiple_choice",
+    "options": [
+      "A) No provision exists.",
+      "B) NCDS can give directives to foreign operators.",
+      "C) NDSA assesses risk and submits a written intimation to Central Government for suitable measures.",
+      "D) State Disaster Management Authority inspects foreign sites."
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Dam Safety Act",
+    "question": "Under Section 42, if an offence is committed by a Government Department, who is deemed guilty by default?",
+    "type": "multiple_choice",
+    "options": [
+      "A) Stationed Chief Engineer",
+      "B) Head of the Department (HoD) unless proven that the offence occurred without their knowledge/diligence",
+      "C) Water Resources Minister",
+      "D) SDSO Director"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Dam Safety Act",
+    "question": "Under the Dam Safety Act, 2021, what authority does NDSA hold over agencies involved in design/construction of specified dams?",
+    "type": "multiple_choice",
+    "options": [
+      "A) No authority over contractors.",
+      "B) Accredits qualified agencies and holds power to disqualify violators.",
+      "C) Managed solely by Bureau of Indian Standards.",
+      "D) Authority over indian contractors only."
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Dam Safety Act",
+    "question": "Under the Dam Safety Act, 2021, how are disputes between State Dam Safety Organizations and Dam Owners resolved?",
+    "type": "multiple_choice",
+    "options": [
+      "A) High Court suit",
+      "B) National Dam Safety Authority (NDSA) resolves the issue, and its decision is final and binding",
+      "C) National Committee on Dam Safety (NCDS) resolves the issue, and its decision is final and binding",
+      "D) Inter-State River Water Disputes Tribunal"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Dam Safety Act",
+    "question": "Small dams below 10 meters in height are completely exempt from safety obligations under the Dam Safety Act, 2021.",
+    "type": "true_false",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Instrumentation & Monitoring",
+    "question": "During an inspection of a concrete gravity dam, the seepage water collected in the drainage gallery changes from clear to highly turbid and discolored. What severe structural risk does this signify?",
+    "type": "multiple_choice",
+    "options": [
+      "(A) Immediate structural tipping due to thermal expansion.",
+      "(B) Internal erosion/piping in embankment elements, or progressive leaching and loss of fine particles/joint material strength.",
+      "(C) Blockage of the main spillway gates due to external sedimentation.",
+      "(D) High hydraulic uplift pressure caused by localized grout curtain failure."
+    ],
+    "answer": "Option (B)"
+  },
+  {
+    "topic": "Instrumentation & Monitoring",
+    "question": "Under what specific physical condition is a Triangular (V-notch) thin-plate weir selected over a Rectangular or Cipolletti (trapezoidal) weir?",
+    "type": "multiple_choice",
+    "options": [
+      "(A) When measuring high-velocity flood discharges exceeding 5.0 m³/s.",
+      "(B) When measuring low flow rates (typically less than 0.05 m³/s or 50 L/s) where high sensitivity to small flow variations is required.",
+      "(C) When the downstream channel is prone to severe tailwater submergence.",
+      "(D) When seepage water contains high concentrations of coarse suspended solids and debris."
+    ],
+    "answer": "Option (B)"
+  },
+  {
+    "topic": "Instrumentation & Monitoring",
+    "question": "How does the 'active method' (heat pulse method) using distributed fiber-optic cables differentiate between a stationary moist soil zone and an active localized seepage path within a dam's embankment?",
+    "type": "multiple_choice",
+    "options": [
+      "(A) By emitting high-frequency acoustic waves through the optical core to measure sound attenuation.",
+      "(B) By applying voltage to heat integrated conductors; active seepage dissipates input heat rapidly, whereas static moist soils retain heat longer.",
+      "(C) By measuring electrical resistance changes across the outer protective sheath of the cable.",
+      "(D) By directly measuring the hydrostatic pressure exerted on the optical fiber cladding."
+    ],
+    "answer": "Option (B)"
+  },
+  {
+    "topic": "Instrumentation & Monitoring",
+    "question": "Why are inverted (float-supported) plumblines preferred over standard weighted plumblines when establishing structural deflection measurements relative to a deep foundation?",
+    "type": "multiple_choice",
+    "options": [
+      "(A) Inverted plumblines are cheaper to install and require less maintenance.",
+      "(B) Standard weighted plumblines cannot survive seismic accelerations.",
+      "(C) Inverted plumblines anchor deep within stable bedrock below the foundation zone, providing an absolute, stable reference datum.",
+      "(D) Inverted plumblines measure vertical settlement rather than horizontal deflection."
+    ],
+    "answer": "Option (C)"
+  },
+  {
+    "topic": "Instrumentation & Monitoring",
+    "question": "An instrument technician installs an earth pressure cell inside an embankment fill. If the cell's structural stiffness is significantly greater than the surrounding soil's modulus, how will the measured stress values compare to the actual free-field soil stresses?",
+    "type": "multiple_choice",
+    "options": [
+      "(A) The measured stress values will be underestimated due to sensor deflection.",
+      "(B) The measured stress values will be overestimated due to the phenomenon of stress arching onto the stiffer sensor.",
+      "(C) The measured stress values will remain completely accurate regardless of stiffness contrast.",
+      "(D) The sensor will register a constant zero stress due to soil relaxation."
+    ],
+    "answer": "Option (B)"
+  },
+  {
+    "topic": "Instrumentation & Monitoring",
+    "question": "Which survey technique provides higher spatial precision for three-dimensional monitoring of dam displacement points, and why?",
+    "type": "multiple_choice",
+    "options": [
+      "(A) Triangulation; because angle measurements using digital theodolites are unaffected by atmospheric conditions.",
+      "(B) Trilateration; because direct Electronic Distance Measurements (EDM) offer higher precision than angular measurements.",
+      "(C) Photogrammetry; because it eliminates the need for reference baseline stations on the abutments.",
+      "(D) Differential Leveling; because it directly calculates horizontal displacement from vertical elevations."
+    ],
+    "answer": "Option (B)"
+  },
+  {
+    "topic": "Instrumentation & Monitoring",
+    "question": "What simple modification is made to standard rain gauges in cold climate regions during winter months to accurately capture solid precipitation without undercounting?",
+    "type": "multiple_choice",
+    "options": [
+      "(A) Replacing the catch bucket with a heated electronic flowmeter.",
+      "(B) Filling the inner cylinder with high-density oil to melt snow instantly.",
+      "(C) Removing the internal collection funnel and inner receiving cylinder to let snow fall directly into the catch bucket.",
+      "(D) Reducing the orifice diameter to prevent wind turbulence near the rim."
+    ],
+    "answer": "Option (C)"
+  },
+  {
+    "topic": "Instrumentation & Monitoring",
+    "question": "Why must unreinforced concrete piers (devoid of steel rebar) be used as foundation mounts for high-precision seismic monitoring instruments (seismometers)?",
+    "type": "multiple_choice",
+    "options": [
+      "(A) Rebar creates electromagnetic interference that corrupts the digital signal processing.",
+      "(B) Steel rebar expands and contracts thermally, inducing microscopic structural tilt and mechanical distortion that creates low-frequency noise.",
+      "(C) Unreinforced concrete piers absorb ground vibrations better than reinforced piers.",
+      "(D) Rebar attracts lightning strikes, which damage sensitive accelerometers."
+    ],
+    "answer": "Option (B)"
+  },
+  {
+    "topic": "Instrumentation & Monitoring",
+    "question": "In an automated real-time seismic monitoring system for a large dam, what is the primary role of Strong Motion Accelerographs (SMAs) compared to Broadband Seismographs?",
+    "type": "multiple_choice",
+    "options": [
+      "(A) To record low-magnitude regional earthquakes occurring thousands of kilometers away.",
+      "(B) To record high-amplitude strong ground shaking directly on or near the structure during major earthquakes without going off-scale (saturating).",
+      "(C) To measure groundwater pore pressure fluctuations caused by seismic shear waves.",
+      "(D) To continuously map reservoir-induced micro-seismicity below the detection threshold of human perception."
+    ],
+    "answer": "Option (B)"
+  },
+  {
+    "topic": "Instrumentation & Monitoring",
+    "question": "If a seepage collection weir downstream of an embankment dam displays a sudden, significant decrease in discharge while the reservoir water level remains constant, the dam safety engineer can confidently conclude that internal erosion has stopped.",
+    "type": "true_false",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE"
+  },
+  {
+    "topic": "Instrumentation & Monitoring",
+    "question": "In a crest alignment survey for a straight concrete gravity dam, collimation measurements utilize a line-of-sight set between fixed piers on opposite abutments to measure vertical settlement of the crest.",
+    "type": "true_false",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE"
+  },
+  {
+    "topic": "Instrumentation & Monitoring",
+    "question": "Converting strain gauge measurements collected from a concrete dam body into absolute structural stresses requires knowledge of the concrete's modulus of elasticity, Poisson's ratio, and creep properties.",
+    "type": "true_false",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "Which of these dams would qualify as a \"Specified Dam\" under the Dam Safety Act, 2021?\n(i) A dam 16 m high, with a short crest, a tiny reservoir and a modest flood discharge\n(ii) A dam 12 m high, crest length 300 m, reservoir 0.6 million cubic metres, designed for a maximum flood of 2,500 cubic metres per second\n(iii) A dam 9 m high, crest length 800 m, reservoir 3 million cubic metres\n(iv) A dam 14 m high, crest length 400 m, reservoir 0.8 million cubic metres, maximum flood 1,500 cubic metres per second, ordinary foundation and conventional design",
+    "type": "multiple_choice",
+    "options": [
+      "A. (i) only",
+      "B. (i) and (ii)",
+      "C. (ii) and (iii)",
+      "D. All four"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "The Project Identification Code (PIC) of Koyna Dam is MH09VH0100. A visitor reads \"MH\" as \"Medium Height\" and concludes Koyna is a medium-height dam. What is wrong with this reading?",
+    "type": "multiple_choice",
+    "options": [
+      "A. Nothing, Koyna is a medium-height dam",
+      "B. MH is the State code for Maharashtra; the height category is VH (Very High, 100 m or above), and Koyna is 103.02 m",
+      "C. MH stands for Maharashtra Highest and VH stands for Valley Head",
+      "D. The PIC does not carry any height information"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "Imagine you pick 1,000 specified dams at random from the register. About how many of them would be 100 m or taller?",
+    "type": "multiple_choice",
+    "options": [
+      "A. About 4",
+      "B. About 40",
+      "C. About 100",
+      "D. About 250"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "Out of every 100 specified dams in India, about how many are earthen or rockfill dams?",
+    "type": "multiple_choice",
+    "options": [
+      "A. About 45",
+      "B. About 65",
+      "C. About 85",
+      "D. About 98"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "Which decade saw the largest addition of specified dams to India's inventory?",
+    "type": "multiple_choice",
+    "options": [
+      "A. 1961 to 1970",
+      "B. 1971 to 1980",
+      "C. 1981 to 1990",
+      "D. 2001 to 2010"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "Roughly what fraction of all specified dams of India has already completed 50 years or more?",
+    "type": "multiple_choice",
+    "options": [
+      "A. About 1 in 10",
+      "B. About 1 in 5",
+      "C. About 1 in 3",
+      "D. About 1 in 2"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "Seismic Zone II is the lowest hazard zone listed and Zone V the highest. Out of every 10 specified dams, about how many sit in Seismic Zone III or higher?",
+    "type": "multiple_choice",
+    "options": [
+      "A. About 1",
+      "B. About 3",
+      "C. About 5",
+      "D. About 8"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "(Match the following) Match each dam in Column A with the record it holds in the NRSD in Column B.\nColumn A:\n1. Tehri (Uttarakhand)\n2. Indira Sagar (Madhya Pradesh)\n3. Hirakud (Odisha)\n4. Thonnur Tank (Karnataka)\n\nColumn B:\n(a) Oldest specified dam, completed around the year 1000\n(b) Tallest dam, 260.5 m\n(c) Largest gross storage, over 12,000 million cubic metres\n(d) Longest dam, about 25.8 km",
+    "type": "matching",
+    "options": [],
+    "answer": "1-b, 2-c, 3-d, 4-a"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "Arrange these dams from TALLEST to SHORTEST: Sardar Sarovar, Bhakra, Tehri, Idukki.",
+    "type": "ordering",
+    "options": [],
+    "answer": "Tehri (260.5 m), Bhakra (225.55 m), Idukki (168.9 m), Sardar Sarovar (163 m)"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "Which river basin has the largest number of specified dams in India?",
+    "type": "multiple_choice",
+    "options": [
+      "A. Ganga",
+      "B. Godavari",
+      "C. Krishna",
+      "D. Narmada"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "The Tapi basin has more than ten times as many specified dams as the Brahmaputra basin.",
+    "type": "true_false",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "Maharashtra, Madhya Pradesh and Gujarat together hold about what share of all specified dams in India?",
+    "type": "multiple_choice",
+    "options": [
+      "A. About 30 percent",
+      "B. About 50 percent",
+      "C. About 70 percent",
+      "D. About 90 percent"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "Maharashtra has about 12 times as many specified dams as Karnataka (2,862 against 232). How does Maharashtra's total gross storage compare with Karnataka's?",
+    "type": "multiple_choice",
+    "options": [
+      "A. About 12 times",
+      "B. About 6 times",
+      "C. About 3 times",
+      "D. Less than 2 times"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "(Match the followings) Among all 6,814 specified dams, match the number of dams in accordance with their purpose -\nColumn A\nIrrigation\nHydropower\nMultipurpose\nWater Supply\n\nColumn B\n6,367 dams\n196\n179\n71",
+    "type": "matching",
+    "options": [],
+    "answer": "A-1, B-2, C-3, D-4"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "Maharashtra has 149 of the 216 specified dams under construction. But one State has just 13 dams under construction that hold about 55 percent of all under-construction gross storage (10.9 out of 19.8 BCM). Which State?",
+    "type": "multiple_choice",
+    "options": [
+      "A. Andhra Pradesh",
+      "B. Jharkhand",
+      "C. Rajasthan",
+      "D. Telangana"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "The Explanatory Note on Height of Specified Dams lays down how height is measured. Which of these is IGNORED while measuring the height of a dam?",
+    "type": "multiple_choice",
+    "options": [
+      "A. A parapet or railing on top of the dam",
+      "B. A cut-off trench or local excavation made while preparing the foundation",
+      "C. Both A and B",
+      "D. Neither, both are counted"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "There are 84 specified dams for which NDSA itself acts as the State Dam Safety Organisation, including Bhakra, Pong, Tehri and Indira Sagar. What do these dams appear to have in common?",
+    "type": "multiple_choice",
+    "options": [
+      "A. All were commissioned after the Dam Safety Act, 2021",
+      "B. All are hydropower dams",
+      "C. They are owned by Central agencies or involve more than one State, so no single State's organisation has clear jurisdiction",
+      "D. All are taller than 100 m"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "How many Specified dams does Indian Railways owns?",
+    "type": "multiple_choice",
+    "options": [
+      "A) 2",
+      "B) 3",
+      "C) 4",
+      "D) more than 4"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "(Multiple select) Select ALL of the following States/UTs that have exactly ONE specified dam.",
+    "type": "multiple_select",
+    "options": [
+      "A. Nagaland",
+      "B. Tripura",
+      "C. Ladakh",
+      "D. Goa",
+      "E. Mizoram"
+    ],
+    "answer": "A and B"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "(Assertion and Reason)\nAssertion (A): Himachal Pradesh, with only 30 specified dams, has more total gross storage than Tamil Nadu, which has 123 specified dams.\nReason (R): Bhakra and Pong dams alone account for more than 90 percent of Himachal Pradesh's gross storage.",
+    "type": "assertion_reason",
+    "options": [
+      "A. Both A and R are true",
+      "B. Both A and R are false",
+      "C. A is true, but R is false",
+      "D. A is false, but R is true"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "National Register of Specified Dams (NRSD) 2026",
+    "question": "Only about 1 percent of specified dams store 1,000 million cubic metres or more. What share of the nation's total gross storage do such large reservoirs hold?",
+    "type": "multiple_choice",
+    "options": [
+      "A. About 5 percent",
+      "B. About 15 percent",
+      "C. About 30 percent",
+      "D. More than half"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Hazard and Vulnerability Classification",
+    "question": "A 120 m high dam is located in a remote area, while a 35 m high dam is located upstream of a densely populated city. Which factor should primarily determine their hazard-potential classification?",
+    "type": "multiple_choice",
+    "options": [
+      "A. Dam height alone",
+      "B. Age of the dam",
+      "C. Potential consequences of dam failure",
+      "D. Vulnerability of both the structure"
+    ],
+    "answer": "C. Potential consequences of dam failure"
+  },
+  {
+    "topic": "Hazard and Vulnerability Classification",
+    "question": "True or False: A dam classified as Class IV hazard-potential classification necessarily has poor structural condition or a high probability of failure.",
+    "type": "true_false",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "topic": "Hazard and Vulnerability Classification",
+    "question": "A structurally sound dam is located upstream of a major city. What is the most appropriate approach to its hazard-potential classification?",
+    "type": "multiple_choice",
+    "options": [
+      "A. Classify it as low hazard because the dam is structurally sound",
+      "B. Classify it based on the potential consequences of failure",
+      "C. Classify it based only on its height",
+      "D. Classification is not required if there are no current structural deficiencies"
+    ],
+    "answer": "B. Classify it based on the potential consequences of failure"
+  },
+  {
+    "topic": "Hazard and Vulnerability Classification",
+    "question": "A natural flood would affect a downstream area even if the dam did not fail. What analysis can help identify the consequences specifically attributable to the dam?",
+    "type": "multiple_choice",
+    "options": [
+      "A. Structural health monitoring",
+      "B. Incremental consequence analysis",
+      "C. Rainfall frequency analysis alone",
+      "D. Reservoir sedimentation analysis"
+    ],
+    "answer": "B. Incremental consequence analysis"
+  },
+  {
+    "topic": "Hazard and Vulnerability Classification",
+    "question": "A natural flood would expose 5,000 people even without dam failure. A dam-break scenario would expose an additional 3,000 people. Which population is particularly relevant in assessing the incremental consequences of the dam?",
+    "type": "multiple_choice",
+    "options": [
+      "A. 5,000 people",
+      "B. 3,000 additional people",
+      "C. 8,000 people only",
+      "D. Only the population living immediately beside the dam"
+    ],
+    "answer": "B. 3,000 additional people"
+  },
+  {
+    "topic": "Hazard and Vulnerability Classification",
+    "question": "Several credible dam-failure scenarios are possible. Which scenario should be given particular consideration for hazard classification?",
+    "type": "multiple_choice",
+    "options": [
+      "A. The toughest scenario to model",
+      "B. The scenario with the smallest flood extent",
+      "C. The reasonable worst-case scenario producing the greatest relevant consequences",
+      "D. Cascade dam failure scenario"
+    ],
+    "answer": "C. The reasonable worst-case scenario producing the greatest relevant consequences"
+  },
+  {
+    "topic": "Hazard and Vulnerability Classification",
+    "question": "A dam-break flood could affect a village, railway passengers, a stadium, a hospital and people travelling on a highway. Which of these should be considered in assessing Population at Risk?",
+    "type": "multiple_choice",
+    "options": [
+      "A. Village residents only",
+      "B. Village residents and hospital occupants only",
+      "C. Railway passengers and highway travellers only",
+      "D. All of the above"
+    ],
+    "answer": "D. All of the above"
+  },
+  {
+    "topic": "Hazard and Vulnerability Classification",
+    "question": "Two downstream communities have the same Population at Risk, but in one community the flood arrives in 15 minutes and in the other it arrives in 2 hours. Why can their hazard consequences differ significantly?",
+    "type": "multiple_choice",
+    "options": [
+      "A. Population at Risk becomes zero in the second community",
+      "B. Critical arrival time affects the available warning and evacuation time",
+      "C. Flood arrival time has no relevance",
+      "D. The dam automatically becomes structurally unsafe"
+    ],
+    "answer": "B. Critical arrival time affects the available warning and evacuation time"
+  },
+  {
+    "topic": "Hazard and Vulnerability Classification",
+    "question": "Dam A is upstream of Dam B. A failure of Dam A could trigger failure of Dam B. What should be considered in assessing the hazard potential?",
+    "type": "multiple_choice",
+    "options": [
+      "A. Only consequences downstream of Dam A",
+      "B. Only consequences downstream of Dam B",
+      "C. The potential cascade consequences involving both dams",
+      "D. Neither dam if they have different owners"
+    ],
+    "answer": "C. The potential cascade consequences involving both dams"
+  },
+  {
+    "topic": "Hazard and Vulnerability Classification",
+    "question": "True or False: A Class IV dam is necessarily in worse physical condition than a Class II dam.",
+    "type": "true_false",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "topic": "Hazard and Vulnerability Classification",
+    "question": "Which statement best reflects the relationship between dam hazard classification and design-flood considerations?",
+    "type": "multiple_choice",
+    "options": [
+      "A. Design-flood considerations are completely independent of hazard consequences",
+      "B. Every dam must use exactly the same design flood regardless of consequences",
+      "C. Hazard and consequence assessment can influence the level of design and safety considerations required",
+      "D. Design floods are determined only by dam age"
+    ],
+    "answer": "C. Hazard and consequence assessment can influence the level of design and safety considerations required"
+  },
+  {
+    "topic": "Hazard and Vulnerability Classification",
+    "question": "A dam was classified several years ago. Since then, downstream development has increased substantially and new inundation modelling information is available. What should happen to the hazard classification?",
+    "type": "multiple_choice",
+    "options": [
+      "A. It must remain unchanged because classification is permanent",
+      "B. It should be changed only if the dam physically deteriorates",
+      "C. It should be reviewed and updated when new relevant information changes the potential consequences",
+      "D. It should be cancelled"
+    ],
+    "answer": "C. It should be reviewed and updated when new relevant information changes the potential consequences"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "On which date did the Dam Safety Act, 2021 come into force in India?",
+    "options": {
+      "A": "14 December 2021",
+      "B": "30 December 2021",
+      "C": "1 January 2022",
+      "D": "26 January 2022"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Which body is described as the apex regulatory authority responsible for the nationwide implementation of dam safety policies and standards under the Act?",
+    "options": {
+      "A": "Central Water Commission (CWC)",
+      "B": "National Committee on Dam Safety (NCDS)",
+      "C": "National Dam Safety Authority (NDSA)",
+      "D": "State Dam Safety Organisation (SDSO)"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Who chairs the National Committee on Dam Safety (NCDS)?",
+    "options": {
+      "A": "The Union Minister of Jal Shakti",
+      "B": "The Chairman, Central Water Commission",
+      "C": "A retired Supreme Court judge",
+      "D": "The Chairman of the NDSA"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "As per the Act, a 'specified dam' generally refers to a dam with a height of more than 15 m, or between 10 m and 15 m if:",
+    "options": {
+      "A": "It stores more than 10 MCM of water",
+      "B": "It meets certain specified design and structural conditions",
+      "C": "It is owned by a state government",
+      "D": "It was constructed before 1979"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "For a dam owned by a Central Public Sector Undertaking, or one that extends across two or more states, which body performs the functions of the SDSO?",
+    "options": {
+      "A": "The National Dam Safety Authority (NDSA)",
+      "B": "A jointly formed inter-state committee",
+      "C": "State Dam Safety Organization",
+      "D": "The state where the dam's reservoir is largest"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "What is the minimum rank of the officer who heads the National Dam Safety Authority (NDSA)?",
+    "options": {
+      "A": "Under Secretary",
+      "B": "Joint Secretary",
+      "C": "Additional Secretary",
+      "D": "Cabinet Secretary"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "At minimum, how many routine inspections must a dam owner's Dam Safety Unit carry out each year?",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Four",
+      "D": "Twelve"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Besides the mandatory annual pre- and post-monsoon inspections, when else must a specified dam be inspected?",
+    "options": {
+      "A": "Only when directed by the media",
+      "B": "During or after floods, earthquakes, other calamities, or on signs of distress",
+      "C": "Only once every five years",
+      "D": "Only before elections"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Who is required to carry out the Comprehensive Dam Safety Evaluation of a dam at regular intervals?",
+    "options": {
+      "A": "The local municipal corporation",
+      "B": "An independent panel of experts",
+      "C": "The dam's original construction contractor",
+      "D": "The State Finance Department"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "What system must be established, incorporating the exchange of real-time hydrological and meteorological data, as part of dam safety management?",
+    "options": {
+      "A": "An early warning system",
+      "B": "A toll collection system",
+      "C": "A tourism booking portal",
+      "D": "A crop insurance scheme"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "As per the DRIP Guidelines, an Emergency Action Plan (EAP) is fundamentally described as what kind of instrument?",
+    "options": {
+      "A": "A structural design specification for new dams",
+      "B": "A written document prepared by the dam owner/operator describing a plan to prevent or lessen the effects of dam failure",
+      "C": "A financial insurance policy against dam failure",
+      "D": "A construction contract between the owner and contractor"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "The EAP Five-Step Response Process begins with which step?",
+    "options": {
+      "A": "Emergency Level Determination",
+      "B": "Notification and Communication",
+      "C": "Event Detection",
+      "D": "Termination and Follow-up"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "In the correct sequence of the EAP Five-Step Response Process, which step immediately follows 'Emergency Level Determination'?",
+    "options": {
+      "A": "Event Detection",
+      "B": "Notification and Communication",
+      "C": "Actions to be Taken",
+      "D": "Termination and Follow-up"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Which condition below is specifically listed as an example that could initiate an ORANGE emergency level?",
+    "options": {
+      "A": "Adverse meteorological conditions only",
+      "B": "Rising reservoir levels approaching the top of the non-overflow section of the dam",
+      "C": "Routine annual inspection due",
+      "D": "A minor foundation problem detected years ago and already resolved"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "A 'Watch Condition' is initiated by which emergency level?",
+    "options": {
+      "A": "RED only",
+      "B": "ORANGE only",
+      "C": "BLUE emergency level",
+      "D": "Both ORANGE and RED"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "As per the guidance on warning systems for sudden spillway releases, what is the minimum advance warning time to be given through speakers, sirens, or hooters before a dam release?",
+    "options": {
+      "A": "5 minutes",
+      "B": "15 minutes",
+      "C": "30 minutes",
+      "D": "1 hour"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "At what minimum frequency should the dam owner update the EAP to correct contact addresses?",
+    "options": {
+      "A": "Once a month",
+      "B": "Only when a dam incident occurs",
+      "C": "Once every five years",
+      "D": "At least once a year"
+    },
+    "answer": "D"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "What distinguishes an 'auxiliary spillway' from a standard (service) spillway?",
+    "options": {
+      "A": "It is a secondary spillway designed to be operated infrequently, possibly anticipating some structural damage or erosion during operation",
+      "B": "It is the primary spillway designed to convey normal, frequent flood discharges without any anticipated damage to the structure",
+      "C": "It is a spillway used exclusively for lowering the reservoir during scheduled maintenance shutdowns",
+      "D": "It is a spillway whose crest elevation is set below the principal spillway so it diverts only base flows"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "How does a 'dam incident' differ from a 'dam failure'?",
+    "options": {
+      "A": "There is no distinction — the terms are used interchangeably",
+      "B": "A dam incident refers to problems occurring at a dam that have not degraded into a 'dam failure', such as unusual seepage or instrument readings",
+      "C": "A dam incident is more severe than a dam failure",
+      "D": "A dam incident only applies to dams under construction"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "As per NRSD 2026, what is the total number of specified dams recorded in India?",
+    "options": {
+      "A": "5,264",
+      "B": "6,814",
+      "C": "7,502",
+      "D": "8,120"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Which state has the highest number of specified dams in NRSD 2026?",
+    "options": {
+      "A": "Madhya Pradesh",
+      "B": "Maharashtra",
+      "C": "Gujarat",
+      "D": "Karnataka"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "How many specified dams in India are 100 m or above in height?",
+    "options": {
+      "A": "9",
+      "B": "72",
+      "C": "26",
+      "D": "110"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "As per the dam owner-wise distribution, which category owns most specified dams?",
+    "options": {
+      "A": "State Governments",
+      "B": "Central Government",
+      "C": "State PSUs",
+      "D": "Private owners"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Which seismic zone contains the largest number of specified dams?",
+    "options": {
+      "A": "Seismic Zone-2",
+      "B": "Seismic Zone-3",
+      "C": "Seismic Zone-4",
+      "D": "Seismic Zone-5"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "As per the dam type-wise distribution, which construction type is most common among specified dams?",
+    "options": {
+      "A": "Concrete/Masonry Dam",
+      "B": "Composite Dam",
+      "C": "Earthen/Rockfill Dam",
+      "D": "Barrage"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "As per the purpose-wise distribution, what is the dominant purpose of specified dams in India?",
+    "options": {
+      "A": "Hydropower",
+      "B": "Irrigation",
+      "C": "Water Supply",
+      "D": "Multipurpose"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Which river basin has the highest number of specified dams?",
+    "options": {
+      "A": "Ganga",
+      "B": "Godavari",
+      "C": "Krishna",
+      "D": "Narmada"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "A dam qualifies for the 'Dams of National Importance' list in NRSD 2026 if:",
+    "options": {
+      "A": "It is more than 50 years old",
+      "B": "Its height is 100 m or above, or its gross storage capacity is 1000 MCM or above",
+      "C": "It is owned by the Central Government",
+      "D": "It has a spillway capacity above 10,000 m³/s"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Which dam is listed with the greatest height above lowest foundation level among all specified dams in India?",
+    "options": {
+      "A": "Bhakra Dam, Himachal Pradesh",
+      "B": "Tehri HPP, Uttarakhand",
+      "C": "Sardar Sarovar, Gujarat",
+      "D": "Idukki Dam, Kerala"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "As per the NRSD 2026, which is the oldest specified dam recorded?",
+    "options": {
+      "A": "Chembarambakkam, Tamil Nadu",
+      "B": "Thonnur Tank, Karnataka",
+      "C": "Mettur Dam, Tamil Nadu",
+      "D": "K.R. Sagara Dam, Karnataka"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "What does the Project Identification Code (PIC) format used in NRSD 2026 look like?",
+    "options": {
+      "A": "1111-XX-XX",
+      "B": "XX11XX1111",
+      "C": "XX-1111-XX",
+      "D": "111XX11XX"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "For how many specified dams does the NDSA itself act as the State Dam Safety Organisation (SDSO)?",
+    "options": {
+      "A": "35",
+      "B": "72",
+      "C": "84",
+      "D": "126"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Which specified dam has the largest reservoir by gross storage capacity in India, as per NRSD 2026?",
+    "options": {
+      "A": "Hirakud, Odisha",
+      "B": "Sardar Sarovar, Gujarat",
+      "C": "Indira Sagar, Madhya Pradesh",
+      "D": "Bhakra, Himachal Pradesh"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Which specified dam is the longest by dam length in India, as per NRSD 2026?",
+    "options": {
+      "A": "Nanak Sagar Dam, Uttar Pradesh",
+      "B": "Veeranam, Tamil Nadu",
+      "C": "Hirakud, Odisha",
+      "D": "Sharda Sagar Dam, Uttar Pradesh"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Longitudinal cracking along the crest of an embankment dam is observed during inspection. Which of the following could be a probable cause?",
+    "options": {
+      "A": "Differential settlement between adjacent zones",
+      "B": "Alkali-aggregate reaction",
+      "C": "Cavitation",
+      "D": "Gate vibration"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "A transverse crack on an embankment is found to be progressively widening and allowing reservoir water to pass through. What is the principal concern?",
+    "options": {
+      "A": "Internal erosion and uncontrolled release",
+      "B": "Increased freeboard",
+      "C": "Reduced reservoir evaporation",
+      "D": "Improved drainage"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Which field observations may indicate the beginning of an embankment slide?",
+    "options": {
+      "A": "Arc-shaped cracks and bulging",
+      "B": "Uniform grass growth",
+      "C": "Clean drainage outlets",
+      "D": "Properly seated riprap"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Why is increasing seepage discharge accompanied by transportation of soil particles particularly significant?",
+    "options": {
+      "A": "It may indicate progressive internal erosion",
+      "B": "It confirms adequate drainage",
+      "C": "It indicates reduced pore pressure",
+      "D": "It proves the foundation is impermeable"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Why is excessive woody vegetation on an embankment considered undesirable?",
+    "options": {
+      "A": "Roots can create seepage paths and vegetation can obstruct inspection",
+      "B": "Vegetation may increase surface roughness and reduce the efficiency of surface drainage",
+      "C": "Vegetation may retain moisture near the embankment surface and cause localized softening",
+      "D": "Vegetation may reduce the effective freeboard by restricting visibility of the reservoir level"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Dislodged riprap on the upstream slope primarily exposes the embankment to:",
+    "options": {
+      "A": "It protects the embankment surface from erosion caused by wave action, rainfall, and runoff",
+      "B": "It prevents all seepage through the embankment and foundation",
+      "C": "It increases the height and freeboard of the dam",
+      "D": "It eliminates the possibility of slope movement caused by foundation conditions"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Vertical displacement and cracking in a concrete dam may be associated with:",
+    "options": {
+      "A": "Foundation settlement or piping",
+      "B": "Wave action",
+      "C": "Animal burrows",
+      "D": "Spillway debris"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Honeycombing in concrete is primarily associated with:",
+    "options": {
+      "A": "Poor mixing, segregation or inadequate vibration",
+      "B": "Excessive reservoir storage",
+      "C": "Wave action",
+      "D": "Foundation piping"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Major displacement of a spillway wall may ultimately result in:",
+    "options": {
+      "A": "Severe cracking and structural failure",
+      "B": "Increased discharge capacity",
+      "C": "Reduced hydrostatic pressure",
+      "D": "Improved drainage"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Damage to an outlet pipe can create a passageway for water to:",
+    "options": {
+      "A": "Enter or exit the pipe and potentially initiate erosion around the conduit",
+      "B": "Reduce seepage",
+      "C": "Increase dam freeboard",
+      "D": "Stabilize the embankment"
+    },
+    "answer": "A"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "The adequacy of spillway capacity is important because it influences:",
+    "options": {
+      "A": "Only power generation",
+      "B": "Maximum flood level and safety of the dam",
+      "C": "Only sediment deposition",
+      "D": "Only irrigation demand"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Probable Maximum Flood (PMF) is expected from:",
+    "options": {
+      "A": "The average annual rainfall",
+      "B": "The most severe combination of critical meteorological and hydrological conditions reasonably possible in the region",
+      "C": "A 10-year rainfall event only",
+      "D": "The maximum observed flood only"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Under IS 11223:1985, dams are classified as small, intermediate or large using:",
+    "options": {
+      "A": "Dam height only",
+      "B": "Gross storage and hydraulic head",
+      "C": "Catchment area only",
+      "D": "Spillway width only"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Surcharge storage is the storage between:",
+    "options": {
+      "A": "Dead storage and live storage",
+      "B": "Normal reservoir level and maximum water level",
+      "C": "Minimum reservoir level and maximum water level",
+      "D": "Minimum drawdown level and dead storage"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Which of the following best describes an “appurtenant structure”?",
+    "options": {
+      "A": "Only the main dam body",
+      "B": "Structures such as spillways, outlets, hydro-mechanical equipment, energy dissipation and river-training structures, and other associated integral structures",
+      "C": "Only the reservoir",
+      "D": "Only the foundation"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Which of the following is specifically excluded from the definition of “dam”?",
+    "options": {
+      "A": "Barrage",
+      "B": "Weir",
+      "C": "Canal and aqueduct",
+      "D": "Similar water-impounding structure"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "“Enlargement of dam” means:",
+    "options": {
+      "A": "Increasing the dam height only",
+      "B": "Any change in the scope of an existing dam/reservoir that raises water storage elevation or increases the volume of water impounded",
+      "C": "Increasing spillway capacity only",
+      "D": "Repairing a gate"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "An “operation and maintenance manual” means:",
+    "options": {
+      "A": "A record of only maintenance expenditure",
+      "B": "Written instructions providing operation procedures, maintenance procedures, emergency procedures and other features necessary for safe operation",
+      "C": "A drawing of the dam",
+      "D": "A list of instruments only"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "In an emergent situation where instrumentation shows an abnormality requiring immediate action, the abnormality may be reported:",
+    "options": {
+      "A": "Only in the next annual report",
+      "B": "Immediately to the State Dam Safety Organisation, with real-time reporting thereafter",
+      "C": "Only after the next monsoon",
+      "D": "Only after a comprehensive safety evaluation"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "For seismic monitoring, Strong Motion Accelerographs are intended for recording:",
+    "options": {
+      "A": "Micro earthquakes only",
+      "B": "Strong-motion earthquakes",
+      "C": "Reservoir sedimentation",
+      "D": "Rainfall intensity"
+    },
+    "answer": "B"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Analysis of instrumentation data is prepared by:",
+    "options": {
+      "A": "SDSO",
+      "B": "NDSA",
+      "C": "Dam owner",
+      "D": "Dam safety unit"
+    },
+    "answer": "C"
+  },
+  {
+    "topic": "Additional questions",
+    "type": "multiple_choice",
+    "pool": "new",
+    "question": "Under normal conditions, analysis of instrumentation data is required on what basis?",
+    "options": {
+      "A": "Weekly",
+      "B": "Monthly",
+      "C": "Half-yearly",
+      "D": "Once every ten years"
+    },
+    "answer": "C"
+  }
+]
