@@ -1302,5 +1302,55 @@ show('home');
 window.__dsq = { BANK, BYID, POOL_MAIN, POOL_NEW, CLASH_PAIRS, pickQuestions, S, show, normalise, renderQuestion, finish, submit, setGauge };
 })();
 </script>
+<script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+<!-- Firebase Realtime Database SDK -->
+<script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-database-compat.js"></script>
+
+<script>
+  // Paste your web app's Firebase configuration here
+  const firebaseConfig = {
+    apiKey: "YOUR_API_KEY",
+    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
+    databaseURL: "https://YOUR_PROJECT_ID-default-rtdb.firebaseio.com",
+    projectId: "YOUR_PROJECT_ID",
+    storageBucket: "YOUR_PROJECT_ID.appspot.com",
+    messagingSenderId: "YOUR_SENDER_ID",
+    appId: "YOUR_APP_ID"
+  };
+
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  const database = firebase.database();
+</script>
+function saveScoreToLeaderboard(playerName, score, timeTaken) {
+  const leaderboardRef = database.ref('leaderboard');
+  
+  leaderboardRef.push({
+    name: playerName,
+    score: score,
+    time: timeTaken,
+    timestamp: Date.now()
+  });
+}
+function loadLeaderboard() {
+  const leaderboardRef = database.ref('leaderboard');
+  
+  // Fetch top 10 scores sorted by highest score
+  leaderboardRef.orderByChild('score').limitToLast(10).on('value', (snapshot) => {
+    const scores = [];
+    snapshot.forEach((childSnapshot) => {
+      scores.push(childSnapshot.val());
+    });
+    
+    // Sort descending (highest score first)
+    scores.reverse();
+    
+    // Update your HTML elements here
+    displayLeaderboardOnUI(scores);
+  });
+}
+
+// Call this when the page loads
+loadLeaderboard();
 </body>
 </html>
